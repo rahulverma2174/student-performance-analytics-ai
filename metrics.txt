@@ -1,0 +1,2 @@
+Test MAE: 7.42 points
+Test R-squared: 0.481
